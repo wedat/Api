@@ -1,6 +1,10 @@
 {
   "posts": [
+<<<<<<< HEAD
     { "id": 2, "title": "Post 2 terminal denemesis" }
+=======
+    { "id": 2, "title": "Post 2 guncellendi" }
+>>>>>>> 148323f426409502676f03f653b7dc853c2b34f2
     { "id": 3, "title": "Post 3" }
     { "id": 4, "title": "Post 4" }
     { "id": 5, "title": "updated post" }
